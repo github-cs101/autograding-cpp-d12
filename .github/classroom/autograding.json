@@ -2,8 +2,8 @@
   "tests": [
     {
       "name": "Run make",
-      "setup": "make",
-      "run": "./a.out",
+      "setup": "",
+      "run": "make test",
       "input": "",
       "output": "",
       "comparison": "included",
